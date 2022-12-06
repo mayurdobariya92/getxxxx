@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:getx/model.dart';
 import 'package:getx/secondpage.dart';
 
-/////////////
+/////////////99999
 void main()
 {
   //1.getmaterialApp
